@@ -13,6 +13,7 @@ git clone https://github.com/CarryHJR/coplayer.git
 
 安装依赖
 npm install --save express@4.15.2  --registry=https://registry.npm.taobao.org
+
 npm install --save socket.io --registry=https://registry.npm.taobao.org
 
 启动
